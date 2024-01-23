@@ -1,5 +1,6 @@
 # Perfumy React Project
-Vercel link to view [https://perfumy-react-iota.vercel.app/]
+Vercel link to view https://perfumy-react-iota.vercel.app/
+
 This project serves as my initial exploration into basics React, where I transformed my existing HTML and CSS design into React components for learning purposes. The project focuses on creating a visually appealing presentation of a perfume collection without any added functionality.
 
 ## Project Structure
